@@ -1,0 +1,2 @@
+# pd.local
+ guarda repositorios
